@@ -9,8 +9,8 @@ Project Template https://github.com/CivicTechWR/ProjectTemplate
 Org Repo https://github.com/CivicTechWR/OrgOrg
 
 Org Project 
-https://github.com/orgs/CivicTechWR/projects/10/views/3
-https://github.com/orgs/CivicTechWR/projects/14/views/1
+- https://github.com/orgs/CivicTechWR/projects/10/views/3
+- https://github.com/orgs/CivicTechWR/projects/14/views/1
 
 
 ## Contents
