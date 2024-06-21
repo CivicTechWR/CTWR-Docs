@@ -5,7 +5,7 @@ plugins:
   - awesome-pages
 
 theme:
-  name: readthedocs
+  name: material
 
 markdown_extensions:
   - toc:
