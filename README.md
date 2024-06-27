@@ -15,6 +15,6 @@ Links library
 
 
 ## Contents
-- [Policies](policies/)
-- [Guidelines](guidelines/)
-- [Templates](templates/)
+- [Policies](docs/policies/index.md)
+- [Guidelines](docs/guidelines/index.md)
+- [Templates](docs/ctwr-templates/index.md)
