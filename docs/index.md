@@ -18,8 +18,11 @@ CivicTechWR is a community group dedicated to solving local issues through desig
 - [2024-06-19 Meeting Minutes](meeting-minutes/2024-06-19_Meeting_Minutes.md)
 
 ### Templates
-- [Event Planning Template](templates/Event_Planning_Template.md)
-- [Meeting Minutes Template](templates/Meeting_Minutes_Template.md)
+- [Event Planning Template](ctwr-templates/Event_Planning_Template.md)
+- [Meeting Minutes Template](ctwr-templates/Meeting_Minutes_Template.md)
+
+### FAQ
+- [Frequently Asked Questions](faq/index.md)
 
 ## Get Involved
 Explore the documentation to find out how you can contribute to our projects, attend events, and collaborate with others in the CivicTechWR community.

@@ -25,8 +25,8 @@ nav:
     - Overview: meeting-minutes/index.md
     - 2024-06-19 Meeting Minutes: meeting-minutes/2024-06-19_Meeting_Minutes.md
   - Templates:
-    - Event Planning Template: templates/Event_Planning_Template.md
-    - Meeting Minutes Template: templates/Meeting_Minutes_Template.md
+    - Event Planning Template: ctwr-templates/Event_Planning_Template.md
+    - Meeting Minutes Template: ctwr-templates/Meeting_Minutes_Template.md
   - FAQ: faq/index.md
   - Get Involved:
     - Meetup: 'https://www.meetup.com/civictechwr/'
