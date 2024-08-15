@@ -21,12 +21,12 @@ nav:
     - Contribution Guidelines: guidelines/Contribution_Guidelines.md
     - Event Planning Guide: guidelines/Event_Planning_Guide.md
     - Social Media Guidelines: guidelines/SocialMedia_Guidelines.md
-  - Meeting Minutes:
-    - Overview: meeting-minutes/index.md
-    - 2024-06-19 Meeting Minutes: meeting-minutes/2024-06-19_Meeting_Minutes.md
+  - Recaps:
+    - Overview: recaps/index.md
+    - 2024-06-19 Recap: recaps/2024-06-19_Recap.md
   - Templates:
     - Event Planning Template: ctwr-templates/Event_Planning_Template.md
-    - Meeting Minutes Template: ctwr-templates/Meeting_Minutes_Template.md
+    - Recap Template: ctwr-templates/Recap_Template.md
   - FAQ: faq/index.md
   - Get Involved:
     - Meetup: 'https://www.meetup.com/civictechwr/'
