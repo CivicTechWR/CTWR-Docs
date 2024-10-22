@@ -1,7 +1,12 @@
 site_name: CivicTechWR Documentation
-
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
 
 plugins:
   - search
@@ -10,6 +15,9 @@ plugins:
 markdown_extensions:
   - toc:
       permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 nav:
   - Home: index.md
