@@ -4,6 +4,5 @@ This section provides templates to help standardize documentation and reporting 
 
 ## Available Templates
 
-{% for page in pages %}
-- [{{ page.title }}]({{ page.url }})
-{% endfor %}
+- [Event Planning Template](Event_Planning_Template.md)
+- [Meeting Minutes Template](Meeting_Minutes_Template.md)
